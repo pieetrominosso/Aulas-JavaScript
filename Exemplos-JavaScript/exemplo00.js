@@ -1,1 +1,1 @@
-console.log("Pedro Marcelo da o bumbum!");
+console.log("Pedro Marcelo é legal!");
