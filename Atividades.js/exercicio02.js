@@ -1,4 +1,4 @@
-const numeros =;
+
 
 const maioresQueDez = numeros.filter(num => num > 10);
 
